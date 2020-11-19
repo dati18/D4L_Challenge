@@ -1,0 +1,23 @@
+{
+  "name": "mail-send",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^7.4.0",
+    "csv-reader": "^1.0.7",
+    "csv-writer": "^1.6.0",
+    "fast-csv": "^4.3.5"
+  },
+  "devDependencies": {
+    "csv-stringify": "^5.5.3",
+    "fake-email": "0.0.3",
+    "random-email": "^1.0.3"
+  },
+  "description": ""
+}
